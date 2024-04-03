@@ -18,8 +18,6 @@ public class secondlargest {
         System.out.println(arr[i]+" ");
     }
     System.out.println("The second largest array is : "+arr[size-2]);
-    System.out.println("The second smallest  array is : "+arr[1]);
-  
-
+    in.close();
    } 
 }
